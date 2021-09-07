@@ -145,7 +145,7 @@
   }
 
 	h1 {
-    margin: 15px 0;
+    margin: 60px 0 15px;
     font-size: 5rem;
     font-weight: 400;
     text-align: center;
