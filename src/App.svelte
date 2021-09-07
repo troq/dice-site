@@ -31,8 +31,8 @@
       </h3>
         <select bind:value={sort}>
           <option value="id">ID</option>
-          <option value="fairness">Fairness</option>
-          <option value="unfairness">Unfairness</option>
+          <option value="fairness">Variance ASC</option>
+          <option value="unfairness">Variancec DESC</option>
         </select>
           <h3>High</h3>
           <div class="selector">
